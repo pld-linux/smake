@@ -1,5 +1,5 @@
 Summary:	A make replacement with Makefile hierarchy support and priority based target overriding
-Summary(pl):	Zamiennik make z obs³ug± hierarchii i przykrywaniem opartym na priorytetach
+Summary(pl.UTF-8):   Zamiennik make z obsÅ‚ugÄ… hierarchii i przykrywaniem opartym na priorytetach
 Name:		smake
 Version:	1.3.2
 Release:	1
@@ -23,16 +23,16 @@ Consortium's Imake, but the goal here is not inherited system
 independency, the goal is consistency and power without the need of
 manually maintaining a Makefile hierarchy.
 
-%description -l pl
-Potê¿ny mechanizm do generowania plików Makefile ze szkieletowych
-Makefile, dostarczaj±cych jedynie podstawowe fragmenty. Brakuj±ca
-tre¶æ jest automatycznie wype³niana poprzez wspó³dzielone do³±czane
-pliki. Dobry schemat do tworzenia wielkiej hierarchii plików Makefile
-i utrzymywania ich w spójno¶ci przy tworzeniu oprogramowania. Trick
-polega na tym, ¿e smake ³±czy szkielet i szablony w sposób oparty na
+%description -l pl.UTF-8
+PotÄ™Å¼ny mechanizm do generowania plikÃ³w Makefile ze szkieletowych
+Makefile, dostarczajÄ…cych jedynie podstawowe fragmenty. BrakujÄ…ca
+treÅ›Ä‡ jest automatycznie wypeÅ‚niana poprzez wspÃ³Å‚dzielone doÅ‚Ä…czane
+pliki. Dobry schemat do tworzenia wielkiej hierarchii plikÃ³w Makefile
+i utrzymywania ich w spÃ³jnoÅ›ci przy tworzeniu oprogramowania. Trick
+polega na tym, Å¼e smake Å‚Ä…czy szkielet i szablony w sposÃ³b oparty na
 priorytetach. Idea pochodzi z Imake X Consortium, ale celem nie jest
-odziedziczenie niezale¿no¶ci od systemu, lecz spójno¶æ i du¿e
-mo¿liwo¶ci bez potrzeby rêcznego utrzymywania hierarchii plików
+odziedziczenie niezaleÅ¼noÅ›ci od systemu, lecz spÃ³jnoÅ›Ä‡ i duÅ¼e
+moÅ¼liwoÅ›ci bez potrzeby rÄ™cznego utrzymywania hierarchii plikÃ³w
 Makefile.
 
 %prep
