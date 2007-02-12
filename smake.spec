@@ -1,5 +1,5 @@
 Summary:	A make replacement with Makefile hierarchy support and priority based target overriding
-Summary(pl.UTF-8):   Zamiennik make z obsługą hierarchii i przykrywaniem opartym na priorytetach
+Summary(pl.UTF-8):	Zamiennik make z obsługą hierarchii i przykrywaniem opartym na priorytetach
 Name:		smake
 Version:	1.3.2
 Release:	1
